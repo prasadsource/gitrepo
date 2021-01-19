@@ -1,9 +1,9 @@
 my:
    greeting: Hello World Updated
    list:
-        values:One, Two, Three
+        values: One, Two, Three
 db:
-  connection : connection string here Updated
-  host : 127.0.0.1
-  port : 1200
+  connection: connection string here Updated
+  host: 127.0.0.1
+  port: 1200
                 
